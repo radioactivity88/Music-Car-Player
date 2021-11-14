@@ -1,2 +1,2 @@
-# media-car-player-policy
-Media Car Player Private Policy
+# Music Car Player Policy
+Music Car Player Private Policy
